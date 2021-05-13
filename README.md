@@ -1,5 +1,5 @@
 # GBRU_planning
-Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USDA
+<span style="color:blue"> Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USDA <span>
 
 ## Peanut pan-genome project
 - [x] Diploid genome assembly of AduK30060 :heavy_check_mark:
