@@ -1,4 +1,4 @@
-# gbru_planning
+# GBRU_planning
 Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USDA
 
 ## Peanut pan-genome project
