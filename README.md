@@ -14,7 +14,7 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 ## Synthetic tetraploid peanut project
 - [x] Sequencing and genome assembly of synthetic tetraploid IpaDur :heavy_check_mark:
 - [ ] Genome comparison with diploid parents 
-- [ ] # Gene conversion identification
+- [ ] Gene conversion identification
 
 ## Soybean genome project
 - [x] Asssembly of diploid genomes of G.max and G.soja :heavy_check_mark:
