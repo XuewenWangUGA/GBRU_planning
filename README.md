@@ -8,7 +8,7 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 - [ ] Pan-genome graph performance with simulated reads mapping
    - 250 bp or longer reads :heavy_check_mark:
    - 150 bp reads :flight_departure:
-- [x] Pipeline for identification of unique node mapping and coverage plot  :heavy_check_mark:
+- [x] Pipeline for identification of unique node, mapping and coverage plot  :heavy_check_mark:
 - [ ] Analysis of real introgression lines with pan-genome graph :flight_departure:
 
 ## Synthetic tetraploid peanut project
