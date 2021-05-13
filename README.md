@@ -23,6 +23,6 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
   - Compared with G. max Wm82, G.soja PI483463, great improvement of genome assembly :heavy_check_mark:
   - Dotplot G.soja PI483463 x Wm82, cross-check inversion
   - Finalizing inversions in Chr19 :flight_departure:
-- [ ] Pan-genome construction of Soybean genomes
+- [ ] Pan-genome construction of Soybean genomes: Wm82, Glycine latifolia (see slack), PI483463, and N7103.
 
 
