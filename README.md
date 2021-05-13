@@ -9,6 +9,7 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
    - 250 bp or longer reads :heavy_check_mark:
    - 150 bp reads :flight_departure:
 - [x] Pipeline for identification of unique node, mapping and coverage plot  :heavy_check_mark:
+   - results anchored to xmfa coordinates using xmfa_graph_cov
 - [ ] Analysis of real introgression lines with pan-genome graph :flight_departure:
 
 ## Synthetic tetraploid peanut project
@@ -20,6 +21,7 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 - [x] Asssembly of diploid genomes of G.max and G.soja :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI483463, great improvement of genome assembly :heavy_check_mark:
+  - Dotplot G.soja PI483463 x Wm82, cross-check inversion
   - Finalizing inversions in Chr19 :flight_departure:
 - [ ] Pan-genome construction of Soybean genomes
 
