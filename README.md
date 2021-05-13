@@ -1,7 +1,7 @@
 # GBRU_planning
 Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USDA
 
-## Peanut pan-genome project
+## The peanut pan-genome project
 - [x] Diploid genome assembly of AduK30060 :heavy_check_mark:
 - [x] Pan-genome graph construction from multiple genomes :heavy_check_mark:
 - [x] Viewing graph and mapping specificity :heavy_check_mark:
@@ -11,12 +11,12 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 - [x] Pipeline for identification of unique node, mapping and coverage plot  :heavy_check_mark:
 - [ ] Analysis of real introgression lines with pan-genome graph :flight_departure:
 
-## Synthetic tetraploid peanut project
+## The synthetic tetraploid peanut project
 - [x] Sequencing and genome assembly of synthetic tetraploid IpaDur :heavy_check_mark:
 - [ ] Genome comparison with diploid parents 
 - [ ] Gene conversion identification
 
-## Soybean genome project
+## The soybean genome project
 - [x] Asssembly of diploid genomes of G.max and G.soja :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI483463, great improvement of genome assembly :heavy_check_mark:
