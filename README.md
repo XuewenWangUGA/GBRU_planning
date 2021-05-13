@@ -19,7 +19,7 @@ Planning of ongoing projects at Genome and Bioinformatic Reseach Unit of USDA.
 - [x] Asssembly of diploid genomes of G.max and G.soja :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI483463, great improvement of genome assembly :heavy_check_mark:
-  - Finalizing inversions in Chr19
+  - Finalizing inversions in Chr19 :flight_departure:
 - [ ] Pan-genome construction of Soybean genomes
 
 
