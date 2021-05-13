@@ -18,11 +18,10 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 - [ ] Gene conversion identification
 
 ## Soybean genome project
-- [x] Asssembly of diploid genomes of G.max and G.soja :heavy_check_mark:
+- [x] Asssembly of diploid genomes of G. max N7103 and G. soja PI366122 :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI483463, great improvement of genome assembly :heavy_check_mark:
   - Dotplot G.soja PI483463 x Wm82, cross-check inversion
   - Finalizing inversions in Chr19 :flight_departure:
-- [ ] Pan-genome construction of Soybean genomes: Wm82, Glycine latifolia (see slack), PI483463, and N7103.
-
+- [ ] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, Gs_PI366122, Gs_PI483463, and Glycine latifolia (see slack).
 
