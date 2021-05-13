@@ -13,6 +13,7 @@ Planning of ongoing projects at Genome and Bioinformatic Reseach Unit of USDA.
 
 ## Synthetic tetraploid peanut project
 - [x] Sequencing and genome assembly of synthetic tetraploid IpaDur :heavy_check_mark:
+- [ ] Genome comparison with diploid parents 
 - [ ] Gene conversion identification
 
 ## Soybean genome project
