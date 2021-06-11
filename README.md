@@ -20,7 +20,7 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 ## Soybean genome project
 - [x] Asssembly of diploid genomes of G. max N7103 and G. soja PI366122 :heavy_check_mark:
   - Assembly validation and candidate breakpoints check :heavy_check_mark:
-  - New assembly version V1.1 for both genomes :heavy_check_mark:
+  - Updated assembly into new version V1.1 for both genomes :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI366122, great improvement of genome assembly :heavy_check_mark:
   - Dotplot G.soja PI366122 x Wm82, cross-check inversion :heavy_check_mark:
