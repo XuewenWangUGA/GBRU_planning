@@ -7,7 +7,6 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
 - [x] Viewing graph and mapping specificity :heavy_check_mark:
 - [ ] Pan-genome graph performance with simulated reads mapping
    - 250 bp or longer reads :heavy_check_mark:
-   - 150 bp reads :flight_departure:
 - [x] Pipeline for identification of unique node, mapping and coverage plot  :heavy_check_mark:
    - results anchored to xmfa coordinates using xmfa_graph_cov
 - [ ] Analysis of real introgression lines with pan-genome graph :flight_departure:
