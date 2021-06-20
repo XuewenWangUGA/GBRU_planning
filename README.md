@@ -22,6 +22,8 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
   - Polishing assembly InDel with Illumina reads :heavy_check_mark:
   - Assembly validation and candidate breakpoints check :heavy_check_mark:
   - Updated assembly into new version V1.1 for both genomes after correction :heavy_check_mark:
+  - All subsequent analyses are based on assembly V1.1 :heavy_check_mark:
+  - Conlcusion: great improvement of genome assembly V1.1 compared with Wm82 :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI366122, great improvement of genome assembly :heavy_check_mark:
   - Dotplot for collinarity G.soja PI366122 x Wm82, cross-check inversion :heavy_check_mark:
