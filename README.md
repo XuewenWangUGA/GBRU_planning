@@ -26,8 +26,10 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
   - Compared with G. max Wm82, G.soja PI366122, great improvement of genome assembly :heavy_check_mark:
   - Dotplot for collinarity G.soja PI366122 x Wm82, cross-check inversion :heavy_check_mark:
   - Dotplot for collinarity between Wm82 and other three genomes :heavy_check_mark:
-  - Finalizing inversions in Chr19: results of read support our new assembly :heavy_check_mark:
+  - Finalizing inversion check in chr13 and Chr19: results of read support our new assembly :heavy_check_mark:
 - [ ] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, Gs_PI366122 and Glycine latifolia (see Slack):
   - Whole genome alignment and viewing :heavy_check_mark:
-  - Pan-genome graph construction :flight_departure:
+- [ ] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, and Gs_PI366122:
+  - Whole genome alignment and viewing :heavy_check_mark:
+  - Pan-genome graph construction :heavy_check_mark:
 
