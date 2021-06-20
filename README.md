@@ -23,15 +23,16 @@ Planning of ongoing projects at Genomics and Bioinformatics Research Unit of USD
   - Assembly validation and candidate breakpoints check :heavy_check_mark:
   - Updated assembly into new version V1.1 for both genomes after correction :heavy_check_mark:
   - All subsequent analyses are based on assembly V1.1 :heavy_check_mark:
+  - Deposition assembly in database (waiting)
   - Conlcusion: great improvement of genome assembly V1.1 compared with Wm82 :heavy_check_mark:
 - [x] Comprison of soybean genomes :heavy_check_mark:
   - Compared with G. max Wm82, G.soja PI366122, great improvement of genome assembly :heavy_check_mark:
   - Dotplot for collinarity G.soja PI366122 x Wm82, cross-check inversion :heavy_check_mark:
   - Dotplot for collinarity between Wm82 and other three genomes :heavy_check_mark:
-  - Preparation of supporting documents of genome comparison for manuscript :heavy_check_mark:
+  - Preparation of supporting documents of genome comparison with dotplot for manuscript (uploaded to Slack) :heavy_check_mark:
   - Finalizing inversion check in chr13 and Chr19: results of read support our new assembly :heavy_check_mark:
-  - Preparation of supporting read mapping documents for manuscript :flight_departure:
-- [x] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, Gs_PI366122 and Glycine latifolia (see Slack):
+  - Documentation with read supporting evidence for assembly at inversion sites for manuscript Gm_N7103 :heavy_check_mark: and Gs_PI366122:flight_departure:
+- [x] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, Gs_PI366122 and Glycine latifolia (see information in Slack):
   - Whole genome alignment and viewing :heavy_check_mark:
 - [x] Pan-genome construction for Soybean genomes: Gm_Wm82, Gm_N7103, and Gs_PI366122:
   - Whole genome alignment and viewing :heavy_check_mark:
